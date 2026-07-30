@@ -1,0 +1,26 @@
+Hospital_ID,Hospital_Name,Branch,City,State,Hospital_Type,Total_Beds
+H001,AIIMS New Delhi,Main Campus,New Delhi,Delhi,Government,2500
+H002,AIIMS Patna,Main Campus,Patna,Bihar,Government,960
+H003,Apollo Hospital,Jubilee Hills,Hyderabad,Telangana,Private,550
+H004,Apollo Hospital,Greams Road,Chennai,Tamil Nadu,Private,600
+H005,Fortis Hospital,Jaipur,Jaipur,Rajasthan,Private,350
+H006,Fortis Hospital,Mohali,Mohali,Punjab,Private,375
+H007,Max Super Speciality Hospital,Saket,New Delhi,Delhi,Private,530
+H008,Medanta,Gurugram,Gurugram,Haryana,Private,1250
+H009,Narayana Health,Bommasandra,Bengaluru,Karnataka,Private,800
+H010,Manipal Hospital,Old Airport Road,Bengaluru,Karnataka,Private,700
+H011,KIMS Hospital,Secunderabad,Hyderabad,Telangana,Private,600
+H012,Yashoda Hospital,Somajiguda,Hyderabad,Telangana,Private,500
+H013,CARE Hospitals,Banjara Hills,Hyderabad,Telangana,Private,435
+H014,Kokilaben Dhirubhai Ambani Hospital,Andheri West,Mumbai,Maharashtra,Private,750
+H015,Tata Memorial Hospital,Parel,Mumbai,Maharashtra,Government,650
+H016,Ruby Hall Clinic,Pune Camp,Pune,Maharashtra,Private,750
+H017,Christian Medical College,Vellore,Vellore,Tamil Nadu,Private,2900
+H018,PGIMER,Sector 12,Chandigarh,Chandigarh,Government,1740
+H019,King George's Medical University,Chowk,Lucknow,Uttar Pradesh,Government,1800
+H020,Sanjay Gandhi Postgraduate Institute,Raebareli Road,Lucknow,Uttar Pradesh,Government,1200
+H021,SMS Hospital,Jaipur,Jaipur,Rajasthan,Government,4500
+H022,NIMS Hospital,Jaipur,Jaipur,Rajasthan,Government,1000
+H023,RIMS,Bariatu,Ranchi,Jharkhand,Government,1500
+H024,IGIMS,Sheikhpura,Patna,Bihar,Government,1200
+H025,Paras HMRI Hospital,Raja Bazar,Patna,Bihar,Private,350
