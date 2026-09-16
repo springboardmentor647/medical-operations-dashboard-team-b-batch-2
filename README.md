@@ -59,6 +59,7 @@ streamlit run app.py
 
 **Upload your data**
 Use the sidebar uploader to load your hospital CSV. The dashboard works with the shared master dataset or any compatible CSV.
+🔗 [Open Medical Operations Dashboard](https://medicaloperationsdashboard.streamlit.app/)
 
 ---
 
