@@ -16,6 +16,14 @@ Interactive hospital operations analytics dashboard built with **Streamlit + Plo
 
 ---
 
+## Screenshots
+
+![Dashboard Snapshot 1](Dashboard%20snaphot%201.png)
+
+![Dashboard Snapshot 2](Dashbaord%20snapshot%202.png)
+
+---
+
 ## Sidebar Filters
 
 All sections respond to these filters simultaneously:
